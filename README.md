@@ -1,4 +1,4 @@
-# Evilginx2-Phishlets
+# Evilginx | Xverginia-Phishlets
 Many Evilginx2 Phishlets Uptodate
 
 # Available Phishlets and status

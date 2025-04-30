@@ -24,8 +24,9 @@ These phishlets are fully working and available.
 | Snapchat        | ✅     |
 | KuCoin          | ✅     |
 | My.Gov.Au‌       | ✅     |
-| Network solu    | ✅     |
+| Network solution| ✅     |
 | Apple           | ✅     |
+| BT              | ✅     |
 ---
 
 ## 🔧 Under Development

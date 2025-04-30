@@ -11,7 +11,7 @@ These phishlets are fully working and available for purchase.
 | Platform        | Status |
 |-----------------|--------|
 | Office365       | ✅     |
-| Google          | ✅     |
+| Gmail & Gsuite  | ✅     |
 | LinkedIn        | ✅     |
 | GitHub          | ✅     |
 | Boa Bank        | ✅     |

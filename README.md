@@ -50,3 +50,9 @@ The following phishlets are currently in development or being tested.
 | ✅   | Fully working            |
 | ➖   | Partially working / WIP  |
 | ❌   | Not working / Deprecated |
+
+
+
+# These phishlets are fully working and available for purchase.  
+# 📬 Contact on Telegram: [@fabrikano](https://t.me/fabrikano)
+

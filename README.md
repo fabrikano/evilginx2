@@ -1,27 +1,46 @@
-# Evilginx | Xverginia-Phishlets
-Many Evilginx2 Phishlets Uptodate
+# Evilginx | Xverginia-Phishlets  
+🛡️ Many Evilginx2 Phishlets – Fully Updated (2025)
 
-# Available Phishlets and status
+---
 
-| ✅ Working  | ➖ Partially Working | ❌ Not Working anymore |
-| ------------- | ------------- | ------------- |
+## ✅ Available Phishlets
 
-<h3>Available for purchase, contact me on telegram <a href="https://t.me/fabrikano" target="_blank">@fabrikano</a> :</h3>
-<p>- Office365 (✅)</p>
-<p>- Google (✅)</p>
-<p>- Linkden (✅)</p>
-<p>- Gihub (✅)</p>
-<p>- Boa bank (✅)</p>
-<p>- Welsfargo bank (✅)</p>
-<p>- Ionos webmail (✅)</p>
-<p>- AWS Amazon (✅)</p>
-<p>- snapchat (✅)</p>
-<p>- Kucoin‌ (✅)</p>
+These phishlets are fully working and available for purchase.  
+📬 **Contact on Telegram:** [@fabrikano](https://t.me/fabrikano)
 
-<h3>Under Devlopment :</h3>
-<p>- Instagram (➖)</p>
-<p>- Facebook (➖)</p>
-<p>- Dropbox (➖)</p>
-<p>- Paypal (➖)</p>
-<p>- Blockchain (➖)</p>
+| Platform        | Status |
+|-----------------|--------|
+| Office365       | ✅     |
+| Google          | ✅     |
+| LinkedIn        | ✅     |
+| GitHub          | ✅     |
+| Boa Bank        | ✅     |
+| Wells Fargo     | ✅     |
+| IONOS Webmail   | ✅     |
+| AWS (Amazon)    | ✅     |
+| Snapchat        | ✅     |
+| KuCoin          | ✅     |
 
+---
+
+## 🔧 Under Development
+
+The following phishlets are currently in development or being tested.
+
+| Platform     | Status |
+|--------------|--------|
+| Instagram    | ➖     |
+| Facebook     | ➖     |
+| Dropbox      | ➖     |
+| PayPal       | ➖     |
+| Blockchain   | ➖     |
+
+---
+
+## 📌 Legend
+
+| Icon | Meaning                  |
+|------|--------------------------|
+| ✅   | Fully working            |
+| ➖   | Partially working / WIP  |
+| ❌   | Not working / Deprecated |

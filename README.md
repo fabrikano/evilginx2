@@ -7,9 +7,21 @@ Many Evilginx2 Phishlets Uptodate
 | ------------- | ------------- | ------------- |
 
 <h3>Available for purchase, contact me on telegram <a href="https://t.me/fabrikano" target="_blank">@fabrikano</a> :</h3>
-<p>- PayPal (✅)</p>
+<p>- Office365 (✅)</p>
 <p>- Google (✅)</p>
+<p>- Linkden (✅)</p>
+<p>- Gihub (✅)</p>
+<p>- Boa bank (✅)</p>
+<p>- Welsfargo bank (✅)</p>
+<p>- Ionos webmail (✅)</p>
+<p>- AWS Amazon (✅)</p>
+<p>- snapchat (✅)</p>
+<p>- Kucoin‌ (✅)</p>
+
 <h3>Available here for free :</h3>
 <p>- Instagram (✅)</p>
 <p>- Facebook (✅)</p>
 <p>- Dropbox (✅)</p>
+<p>- Paypal (✅)</p>
+<p>- Blockchain (✅)</p>
+

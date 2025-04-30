@@ -8,7 +8,7 @@
 
 ## ✅ Available Phishlets
 
-These phishlets are fully working and available for purchase.  
+These phishlets are fully working and available.  
 📬 **Contact on Telegram:** [@fabrikano](https://t.me/fabrikano)
 
 | Platform        | Status |
@@ -53,6 +53,6 @@ The following phishlets are currently in development or being tested.
 
 
 
-# These phishlets are fully working and available for purchase.  
+# These phishlets are fully working and available.  
 # 📬 Contact on Telegram: [@fabrikano](https://t.me/fabrikano)
 

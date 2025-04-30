@@ -20,6 +20,8 @@ These phishlets are fully working and available for purchase.
 | AWS (Amazon)    | ✅     |
 | Snapchat        | ✅     |
 | KuCoin          | ✅     |
+| My.Gov.Au‌       | ✅     |
+| Network solu    | ✅     |
 
 ---
 
@@ -34,7 +36,8 @@ The following phishlets are currently in development or being tested.
 | Dropbox      | ➖     |
 | PayPal       | ➖     |
 | Blockchain   | ➖     |
-
+| Yahoo        | ➖     |
+| Aol          | ➖     |
 ---
 
 ## 📌 Legend

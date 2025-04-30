@@ -1,4 +1,4 @@
-# 🎯💀 Evilginx | 🕵️‍♂️ Xverginia-Phishlets 🔥🧠   
+💀 Evilginx | 💀 Xverginia-Phishlets
 🛡️ Many Xverginia Phishlets – Fully Updated (2025)
 
 ---

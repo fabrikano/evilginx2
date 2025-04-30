@@ -2,7 +2,8 @@
 🛡️ Many Evilginx2 Phishlets – Fully Updated (2025)
 
 ---
-![photo_2025-04-30_08-19-19](https://github.com/user-attachments/assets/8f54688e-3128-4960-8bd2-396d6f395296)
+![photo_2025-04-30_08-19-19](https://github.com/user-attachments/assets/65621bba-a7e1-47e4-85e9-6b061a34e783)
+
 
 ## ✅ Available Phishlets
 

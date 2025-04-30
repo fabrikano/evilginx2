@@ -25,7 +25,7 @@ These phishlets are fully working and available.
 | KuCoin          | ✅     |
 | My.Gov.Au‌       | ✅     |
 | Network solu    | ✅     |
-
+| Apple           | ✅     |
 ---
 
 ## 🔧 Under Development

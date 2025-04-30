@@ -1,8 +1,8 @@
 # Evilginx | Xverginia-Phishlets  
-🛡️ Many Evilginx2 Phishlets – Fully Updated (2025)
+🛡️ Many Xverginia Phishlets – Fully Updated (2025)
 
 ---
-ᅠᅠᅠᅠᅠᅠ
+ᅠᅠᅠᅠᅠᅠᅠᅠ
 ![photo_2025-04-30_08-19-19](https://github.com/user-attachments/assets/65621bba-a7e1-47e4-85e9-6b061a34e783)
 
 

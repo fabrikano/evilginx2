@@ -18,10 +18,10 @@ Many Evilginx2 Phishlets Uptodate
 <p>- snapchat (✅)</p>
 <p>- Kucoin‌ (✅)</p>
 
-<h3>Available here for free :</h3>
-<p>- Instagram (✅)</p>
-<p>- Facebook (✅)</p>
-<p>- Dropbox (✅)</p>
-<p>- Paypal (✅)</p>
-<p>- Blockchain (✅)</p>
+<h3>Under Devlopment :</h3>
+<p>- Instagram (➖)</p>
+<p>- Facebook (➖)</p>
+<p>- Dropbox (➖)</p>
+<p>- Paypal (➖)</p>
+<p>- Blockchain (➖)</p>
 

@@ -3,7 +3,7 @@
 
 ---
 ᅠᅠᅠᅠᅠᅠᅠᅠ
-![photo_2025-04-30_08-19-19](https://github.com/user-attachments/assets/65621bba-a7e1-47e4-85e9-6b061a34e783)
+![Screenshot - 15_06_2025 , 11_47_23 AM_censored_censored](https://github.com/user-attachments/assets/c244a786-f58e-4163-ba73-1b1d0a1578f8)
 
 
 ## ✅ Available Phishlets

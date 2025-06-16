@@ -136,6 +136,6 @@ The following phishlets are currently in development or being tested.
 
 
 
-# These phishlets are fully working and available.  
+# This Version & phishlets are fully working and available.  
 # 📬 Contact on Telegram: [@fabrikano](https://t.me/fabrikano)
 

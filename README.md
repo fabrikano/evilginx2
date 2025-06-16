@@ -4,6 +4,9 @@
 ---
 ᅠᅠᅠᅠᅠᅠᅠᅠ
 ![Screenshot - 15_06_2025 , 11_47_23 AM_censored_censored](https://github.com/user-attachments/assets/c244a786-f58e-4163-ba73-1b1d0a1578f8)
+![photo_2025-06-16_10-39-32](https://github.com/user-attachments/assets/c255acdb-4476-433d-acfe-3b63690a89e9)
+![photo_2025-06-16_10-40-50](https://github.com/user-attachments/assets/654ddbd6-4fd8-413f-bbf6-212b8e5d5716)
+![photo_2025-06-16_10-41-17](https://github.com/user-attachments/assets/b34fc00e-2c66-4991-96b6-5c23cadbf82e)
 
 # 🔥 Xverginia v4.1 Pro Features – Professional Toolkit 🔥
 
@@ -104,6 +107,8 @@ These phishlets are fully working and available.
 | Network solution| ✅     |
 | Apple (ICLOUD)  | ✅     |
 | BT              | ✅     |
+| hiworks         | ✅     |
+| otpbanka        | ✅     |
 ---
 
 ## 🔧 Under Development

@@ -147,3 +147,8 @@ The following phishlets are currently in development or being tested.
 # This Version & phishlets are fully working and available.  
 # 📬 Contact on Telegram: [@fabrikano](https://t.me/fabrikano)
 
+
+
+
+⚠️ Legal Disclaimer:
+All tools and simulations are for educational and research purposes only. Do not use this knowledge unethically or for illegal activity.

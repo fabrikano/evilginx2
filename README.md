@@ -81,6 +81,14 @@
 
 ---
 
+## 🛑 Safe Browsing / URL Scanner Bypass
+- Fully bypasses:
+  - Google Safe Browsing
+  - Microsoft Defender SmartScreen
+  - VirusTotal & URLScan.io scans
+- Auto-redirects bots away using fingerprint & heuristic logic
+
+
 ## ⚠️ And Many More Exclusive Features…
 - Hidden tricks & stealth mechanisms only revealed to owners
 - Not just a tool – a **professional-grade framework** built for elite operations

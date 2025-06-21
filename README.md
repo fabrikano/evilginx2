@@ -1,7 +1,7 @@
 <h1><span style="color:#e60000;">Evilginx</span> | <span style="color:#0080ff;">Xverginia-Phishlets</span></h1>
 <p>🛡️ Many Evilginx2 Phishlets – Fully Updated (2025)</p>
  
----  
+---   
 ᅠᅠᅠᅠᅠᅠᅠᅠ
 ![455384786-c244a786-f58e-4163-ba73-1b1d0a1578f8](https://github.com/user-attachments/assets/34323cc1-4d82-4655-aca5-24404b6e599b)
 ![photo_2025-06-16_10-39-32](https://github.com/user-attachments/assets/c255acdb-4476-433d-acfe-3b63690a89e9)

@@ -3,10 +3,7 @@
     
 ---                         
 ᅠᅠᅠᅠᅠᅠᅠᅠ  
-![Screenshot - 29_06_2025 , 11_28_15 AM](https://github.com/user-attachments/assets/da228bae-720d-4f95-afa5-f3c18a75789f)
-![photo_2025-06-16_10-39-32](https://github.com/user-attachments/assets/c255acdb-4476-433d-acfe-3b63690a89e9)
-![photo_2025-06-16_10-40-50](https://github.com/user-attachments/assets/654ddbd6-4fd8-413f-bbf6-212b8e5d5716)
-![photo_2025-06-16_10-41-17](https://github.com/user-attachments/assets/b34fc00e-2c66-4991-96b6-5c23cadbf82e)
+<img width="808" height="336" alt="Screenshot - 21_07_2025 , 11_29_48 AM" src="https://github.com/user-attachments/assets/7ed6407a-bf87-4f4e-bb29-4460a7524605" />
 
 # 🔥 Xverginia v4.1 Pro Features – Professional Toolkit 🔥
   

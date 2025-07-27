@@ -2,7 +2,7 @@
 <p>🛡️ Many Evilginx2 Phishlets – Fully Updated (2025)</p>
     
 ---                           
-ᅠᅠᅠᅠᅠᅠᅠᅠ   
+ᅠᅠᅠᅠᅠᅠᅠᅠ    
 <img width="808" height="336" alt="Screenshot - 21_07_2025 , 11_29_48 AM" src="https://github.com/user-attachments/assets/7ed6407a-bf87-4f4e-bb29-4460a7524605" />
 
 # 🔥 Xverginia v4.1 Pro Features – Professional Toolkit 🔥

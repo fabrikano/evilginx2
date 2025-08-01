@@ -3,7 +3,9 @@
      
 ---                             
 ᅠᅠᅠᅠᅠᅠᅠᅠ     
-<img width="808" height="336" alt="Screenshot - 21_07_2025 , 11_29_48 AM" src="https://github.com/user-attachments/assets/7ed6407a-bf87-4f4e-bb29-4460a7524605" />
+
+<img width="808" height="336" alt="468518935-7ed6407a-bf87-4f4e-bb29-4460a7524605" src="https://github.com/user-attachments/assets/2b9df28e-42e7-4424-8ab2-509f12bc02d8" />
+
 
 # 🔥 Xverginia v4.1 Pro Features – Professional Toolkit 🔥
   

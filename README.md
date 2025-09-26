@@ -2,7 +2,7 @@
 <p>🛡️ Many Evilginx2 Phishlets – Fully Updated (2025)</p>
   
 ---                                                     
-ᅠᅠᅠᅠᅠᅠᅠᅠ                    
+ᅠᅠᅠᅠᅠᅠᅠᅠ                     
 <img width="797" height="290" alt="Screenshot - 14_09_2025 , 2_11_23 PM" src="https://github.com/user-attachments/assets/8032bed6-3ba1-4c2d-9ce7-a96bb6321e7f" />
 
 <img width="942" height="402" alt="Screenshot - 14_09_2025 , 2_14_13 PM" src="https://github.com/user-attachments/assets/415c0d90-e918-4e40-9a6e-2cc81f03a4d4" />
